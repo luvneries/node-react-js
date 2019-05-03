@@ -1,0 +1,1 @@
+This is sample code to build application in nginx with react js as frontend and postgres and redis server as backend. 
